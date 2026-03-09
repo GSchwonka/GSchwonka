@@ -1,6 +1,6 @@
 # 😎 Hi, I'm Guilherme Schwonka
 
-🎯 **Junior Firmware Engineer** passionate about embedded systems and low-level programming.  
+🎯 **Firmware Engineer** passionate about embedded systems and low-level programming.  
 I love building efficient and reliable solutions for microcontrollers, especially using **Embedded C++**.
 
 ---
